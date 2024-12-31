@@ -38,7 +38,7 @@
         <div class="about-me">
             <h1>About Me</h1>
             <p>
-                As a Frontend Developer, I’ve spent years honing my skills in HTML, CSS, JavaScript, and frameworks like React and Vue.js. I love the challenge of taking a design and bringing it to life in a way that’s not just visually appealing, but also works seamlessly across all devices. My work is all about creating responsive, user-friendly web applications that people enjoy using. I’m always up for solving tricky problems—whether it’s optimizing performance or making sure everything runs smoothly. I’m a big believer in writing clean, maintainable code and I’m constantly learning to stay ahead of the curve. Collaboration is key for me, and I enjoy working closely with designers, backend developers, and stakeholders to create digital experiences that really make an impact.    
+                As a Frontend Developer, I’ve spent years honing my skills in HTML, CSS, TypeScript, JavaScript, and frameworks like React, Vue.js, and Next.Js. I love the challenge of taking a design and bringing it to life in a way that’s not just visually appealing, but also works seamlessly across all devices. My work is all about creating responsive, user-friendly web applications that people enjoy using. I’m always up for solving tricky problems—whether it’s optimizing performance or making sure everything runs smoothly. I’m a big believer in writing clean, maintainable code and I’m constantly learning to stay ahead of the curve. Collaboration is key for me, and I enjoy working closely with designers, backend developers, and stakeholders to create digital experiences that really make an impact.    
             </p>
         </div>
         <div class="technology-section">
